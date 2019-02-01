@@ -1,2 +1,2 @@
-# charecter_recogniser
-mnist based char classifier
+# character_recognizer
+MNIST based char classifier
